@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir css img js tmp
+mkdir css js tmp
 
 # Install bootstrap
 wget -P tmp http://twitter.github.com/bootstrap/assets/bootstrap.zip
