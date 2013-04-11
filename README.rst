@@ -1,7 +1,10 @@
-Usage:
+=======
+Require
+=======
 
-Download current library
-  ./scripts/download-libs.sh
+If you don't have NPM Install Manager, you have to install them from nodejs.org_
+.. _nodejs.org: http://nodejs.org/download/
 
-Clean up project
-  ./scripts/cleanup.sh
+Next: ::
+
+  $ npm install -g less
